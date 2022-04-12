@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502296138460",
+    "project_id": "tattooscene-89155",
+    "storage_bucket": "tattooscene-89155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502296138460:android:c49b7a8b4c906454311a19",
+        "android_client_info": {
+          "package_name": "com.dmonster.tattooscene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502296138460-q5mpn1lu8eo0utet1ldhoio01k58b3ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZcbQ5u271Y4ek_som8ZEMh-x9oIhUEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502296138460-q5mpn1lu8eo0utet1ldhoio01k58b3ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
