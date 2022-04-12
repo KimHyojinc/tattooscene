@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* tattoosceneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* tattoosceneTests.m */; };
+		00E356F31AD99517003FC87E /* mydear_v1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* mydear_v1Tests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		153DD3493A184FB89F065640 /* libPods-tattooscene.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F6218F7C2F7448572A95CD08 /* libPods-tattooscene.a */; };
+		153DD3493A184FB89F065640 /* libPods-mydear_v1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F6218F7C2F7448572A95CD08 /* libPods-mydear_v1.a */; };
 		5B1C87EC2787ECEC00AA6952 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B1C87EB2787ECEC00AA6952 /* GoogleService-Info.plist */; };
 		5B1C87EF2788039F00AA6952 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1C87EE2788039F00AA6952 /* File.swift */; };
 		5B5195C3278BD21500AB86AC /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = 5B5195C2278BD21500AB86AC /* main.jsbundle */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		AB9AC1C8FFA706D9164ED414 /* libPods-tattooscene-tattoosceneTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AFB203700B7E1B7FAAEE1171 /* libPods-tattooscene-tattoosceneTests.a */; };
+		AB9AC1C8FFA706D9164ED414 /* libPods-mydear_v1-mydear_v1Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AFB203700B7E1B7FAAEE1171 /* libPods-mydear_v1-mydear_v1Tests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -25,33 +25,33 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = tattooscene;
+			remoteInfo = mydear_v1;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* tattoosceneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tattoosceneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* mydear_v1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mydear_v1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* tattoosceneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tattoosceneTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* tattooscene.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tattooscene.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = tattooscene/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = tattooscene/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = tattooscene/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = tattooscene/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = tattooscene/main.m; sourceTree = "<group>"; };
-		258FBE8FC1347E9B92B89ADE /* Pods-tattooscene-tattoosceneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tattooscene-tattoosceneTests.release.xcconfig"; path = "Target Support Files/Pods-tattooscene-tattoosceneTests/Pods-tattooscene-tattoosceneTests.release.xcconfig"; sourceTree = "<group>"; };
-		5B1C87EA2787EB1D00AA6952 /* tattooscene.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = tattooscene.entitlements; path = tattooscene/tattooscene.entitlements; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* mydear_v1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mydear_v1Tests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* mydear_v1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mydear_v1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = mydear_v1/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = mydear_v1/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = mydear_v1/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = mydear_v1/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = mydear_v1/main.m; sourceTree = "<group>"; };
+		258FBE8FC1347E9B92B89ADE /* Pods-mydear_v1-mydear_v1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mydear_v1-mydear_v1Tests.release.xcconfig"; path = "Target Support Files/Pods-mydear_v1-mydear_v1Tests/Pods-mydear_v1-mydear_v1Tests.release.xcconfig"; sourceTree = "<group>"; };
+		5B1C87EA2787EB1D00AA6952 /* mydear_v1.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = mydear_v1.entitlements; path = mydear_v1/mydear_v1.entitlements; sourceTree = "<group>"; };
 		5B1C87EB2787ECEC00AA6952 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		5B1C87ED2788039E00AA6952 /* tattooscene-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "tattooscene-Bridging-Header.h"; sourceTree = "<group>"; };
+		5B1C87ED2788039E00AA6952 /* mydear_v1-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mydear_v1-Bridging-Header.h"; sourceTree = "<group>"; };
 		5B1C87EE2788039F00AA6952 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		5B5195C2278BD21500AB86AC /* main.jsbundle */ = {isa = PBXFileReference; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		78C4961C1A32D1CB6087D5FC /* Pods-tattooscene-tattoosceneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tattooscene-tattoosceneTests.debug.xcconfig"; path = "Target Support Files/Pods-tattooscene-tattoosceneTests/Pods-tattooscene-tattoosceneTests.debug.xcconfig"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = tattooscene/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		888AA505DA52759807870FFD /* Pods-tattooscene.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tattooscene.release.xcconfig"; path = "Target Support Files/Pods-tattooscene/Pods-tattooscene.release.xcconfig"; sourceTree = "<group>"; };
-		AFB203700B7E1B7FAAEE1171 /* libPods-tattooscene-tattoosceneTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-tattooscene-tattoosceneTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B59F50323BED69A4AD1435F5 /* Pods-tattooscene.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tattooscene.debug.xcconfig"; path = "Target Support Files/Pods-tattooscene/Pods-tattooscene.debug.xcconfig"; sourceTree = "<group>"; };
+		78C4961C1A32D1CB6087D5FC /* Pods-mydear_v1-mydear_v1Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mydear_v1-mydear_v1Tests.debug.xcconfig"; path = "Target Support Files/Pods-mydear_v1-mydear_v1Tests/Pods-mydear_v1-mydear_v1Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = mydear_v1/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		888AA505DA52759807870FFD /* Pods-mydear_v1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mydear_v1.release.xcconfig"; path = "Target Support Files/Pods-mydear_v1/Pods-mydear_v1.release.xcconfig"; sourceTree = "<group>"; };
+		AFB203700B7E1B7FAAEE1171 /* libPods-mydear_v1-mydear_v1Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-mydear_v1-mydear_v1Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B59F50323BED69A4AD1435F5 /* Pods-mydear_v1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mydear_v1.debug.xcconfig"; path = "Target Support Files/Pods-mydear_v1/Pods-mydear_v1.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		F6218F7C2F7448572A95CD08 /* libPods-tattooscene.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-tattooscene.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6218F7C2F7448572A95CD08 /* libPods-mydear_v1.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-mydear_v1.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AB9AC1C8FFA706D9164ED414 /* libPods-tattooscene-tattoosceneTests.a in Frameworks */,
+				AB9AC1C8FFA706D9164ED414 /* libPods-mydear_v1-mydear_v1Tests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -67,20 +67,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				153DD3493A184FB89F065640 /* libPods-tattooscene.a in Frameworks */,
+				153DD3493A184FB89F065640 /* libPods-mydear_v1.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* tattoosceneTests */ = {
+		00E356EF1AD99517003FC87E /* mydear_v1Tests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* tattoosceneTests.m */,
+				00E356F21AD99517003FC87E /* mydear_v1Tests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = tattoosceneTests;
+			path = mydear_v1Tests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -91,11 +91,11 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* tattooscene */ = {
+		13B07FAE1A68108700A75B9A /* mydear_v1 */ = {
 			isa = PBXGroup;
 			children = (
 				5B1C87EB2787ECEC00AA6952 /* GoogleService-Info.plist */,
-				5B1C87EA2787EB1D00AA6952 /* tattooscene.entitlements */,
+				5B1C87EA2787EB1D00AA6952 /* mydear_v1.entitlements */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -103,17 +103,17 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				5B1C87EE2788039F00AA6952 /* File.swift */,
-				5B1C87ED2788039E00AA6952 /* tattooscene-Bridging-Header.h */,
+				5B1C87ED2788039E00AA6952 /* mydear_v1-Bridging-Header.h */,
 			);
-			name = tattooscene;
+			name = mydear_v1;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				F6218F7C2F7448572A95CD08 /* libPods-tattooscene.a */,
-				AFB203700B7E1B7FAAEE1171 /* libPods-tattooscene-tattoosceneTests.a */,
+				F6218F7C2F7448572A95CD08 /* libPods-mydear_v1.a */,
+				AFB203700B7E1B7FAAEE1171 /* libPods-mydear_v1-mydear_v1Tests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -121,10 +121,10 @@
 		570684B29FC0CE4D29FE0B97 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B59F50323BED69A4AD1435F5 /* Pods-tattooscene.debug.xcconfig */,
-				888AA505DA52759807870FFD /* Pods-tattooscene.release.xcconfig */,
-				78C4961C1A32D1CB6087D5FC /* Pods-tattooscene-tattoosceneTests.debug.xcconfig */,
-				258FBE8FC1347E9B92B89ADE /* Pods-tattooscene-tattoosceneTests.release.xcconfig */,
+				B59F50323BED69A4AD1435F5 /* Pods-mydear_v1.debug.xcconfig */,
+				888AA505DA52759807870FFD /* Pods-mydear_v1.release.xcconfig */,
+				78C4961C1A32D1CB6087D5FC /* Pods-mydear_v1-mydear_v1Tests.debug.xcconfig */,
+				258FBE8FC1347E9B92B89ADE /* Pods-mydear_v1-mydear_v1Tests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -140,9 +140,9 @@
 			isa = PBXGroup;
 			children = (
 				5B5195C2278BD21500AB86AC /* main.jsbundle */,
-				13B07FAE1A68108700A75B9A /* tattooscene */,
+				13B07FAE1A68108700A75B9A /* mydear_v1 */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* tattoosceneTests */,
+				00E356EF1AD99517003FC87E /* mydear_v1Tests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				570684B29FC0CE4D29FE0B97 /* Pods */,
@@ -155,8 +155,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* tattooscene.app */,
-				00E356EE1AD99517003FC87E /* tattoosceneTests.xctest */,
+				13B07F961A680F5B00A75B9A /* mydear_v1.app */,
+				00E356EE1AD99517003FC87E /* mydear_v1Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -164,9 +164,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* tattoosceneTests */ = {
+		00E356ED1AD99517003FC87E /* mydear_v1Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "tattoosceneTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "mydear_v1Tests" */;
 			buildPhases = (
 				02806A062F59182696654660 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -180,14 +180,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = tattoosceneTests;
-			productName = tattoosceneTests;
-			productReference = 00E356EE1AD99517003FC87E /* tattoosceneTests.xctest */;
+			name = mydear_v1Tests;
+			productName = mydear_v1Tests;
+			productReference = 00E356EE1AD99517003FC87E /* mydear_v1Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* tattooscene */ = {
+		13B07F861A680F5B00A75B9A /* mydear_v1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "tattooscene" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "mydear_v1" */;
 			buildPhases = (
 				D8745731D452D54C2033B0C3 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -203,9 +203,9 @@
 			);
 			dependencies = (
 			);
-			name = tattooscene;
-			productName = tattooscene;
-			productReference = 13B07F961A680F5B00A75B9A /* tattooscene.app */;
+			name = mydear_v1;
+			productName = mydear_v1;
+			productReference = 13B07F961A680F5B00A75B9A /* mydear_v1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -225,7 +225,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "tattooscene" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "mydear_v1" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -238,8 +238,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* tattooscene */,
-				00E356ED1AD99517003FC87E /* tattoosceneTests */,
+				13B07F861A680F5B00A75B9A /* mydear_v1 */,
+				00E356ED1AD99517003FC87E /* mydear_v1Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -295,7 +295,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-tattooscene-tattoosceneTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-mydear_v1-mydear_v1Tests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -308,15 +308,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tattooscene-tattoosceneTests/Pods-tattooscene-tattoosceneTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-mydear_v1-mydear_v1Tests/Pods-mydear_v1-mydear_v1Tests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tattooscene-tattoosceneTests/Pods-tattooscene-tattoosceneTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-mydear_v1-mydear_v1Tests/Pods-mydear_v1-mydear_v1Tests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-tattooscene-tattoosceneTests/Pods-tattooscene-tattoosceneTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-mydear_v1-mydear_v1Tests/Pods-mydear_v1-mydear_v1Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		501811FABBB1EEFEED8ED232 /* [CP] Embed Pods Frameworks */ = {
@@ -325,15 +325,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tattooscene/Pods-tattooscene-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-mydear_v1/Pods-mydear_v1-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tattooscene/Pods-tattooscene-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-mydear_v1/Pods-mydear_v1-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-tattooscene/Pods-tattooscene-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-mydear_v1/Pods-mydear_v1-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		99D0BF0F812CDC4565991D03 /* [CP-User] [RNFB] Core Configuration */ = {
@@ -355,15 +355,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tattooscene-tattoosceneTests/Pods-tattooscene-tattoosceneTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-mydear_v1-mydear_v1Tests/Pods-mydear_v1-mydear_v1Tests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tattooscene-tattoosceneTests/Pods-tattooscene-tattoosceneTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-mydear_v1-mydear_v1Tests/Pods-mydear_v1-mydear_v1Tests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-tattooscene-tattoosceneTests/Pods-tattooscene-tattoosceneTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-mydear_v1-mydear_v1Tests/Pods-mydear_v1-mydear_v1Tests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		D8745731D452D54C2033B0C3 /* [CP] Check Pods Manifest.lock */ = {
@@ -381,7 +381,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-tattooscene-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-mydear_v1-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -394,15 +394,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tattooscene/Pods-tattooscene-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-mydear_v1/Pods-mydear_v1-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-tattooscene/Pods-tattooscene-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-mydear_v1/Pods-mydear_v1-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-tattooscene/Pods-tattooscene-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-mydear_v1/Pods-mydear_v1-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -431,7 +431,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* tattoosceneTests.m in Sources */,
+				00E356F31AD99517003FC87E /* mydear_v1Tests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -450,7 +450,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* tattooscene */;
+			target = 13B07F861A680F5B00A75B9A /* mydear_v1 */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -458,7 +458,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 78C4961C1A32D1CB6087D5FC /* Pods-tattooscene-tattoosceneTests.debug.xcconfig */;
+			baseConfigurationReference = 78C4961C1A32D1CB6087D5FC /* Pods-mydear_v1-mydear_v1Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -466,7 +466,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = tattoosceneTests/Info.plist;
+				INFOPLIST_FILE = mydear_v1Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -480,18 +480,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tattooscene.app/tattooscene";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mydear_v1.app/mydear_v1";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 258FBE8FC1347E9B92B89ADE /* Pods-tattooscene-tattoosceneTests.release.xcconfig */;
+			baseConfigurationReference = 258FBE8FC1347E9B92B89ADE /* Pods-mydear_v1-mydear_v1Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = tattoosceneTests/Info.plist;
+				INFOPLIST_FILE = mydear_v1Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -505,23 +505,23 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tattooscene.app/tattooscene";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mydear_v1.app/mydear_v1";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B59F50323BED69A4AD1435F5 /* Pods-tattooscene.debug.xcconfig */;
+			baseConfigurationReference = B59F50323BED69A4AD1435F5 /* Pods-mydear_v1.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = tattooscene/tattooscene.entitlements;
+				CODE_SIGN_ENTITLEMENTS = mydear_v1/mydear_v1.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9696MUD2TP;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = tattooscene/Info.plist;
+				INFOPLIST_FILE = mydear_v1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -533,9 +533,9 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = kr.mydear.v1;
-				PRODUCT_NAME = tattooscene;
+				PRODUCT_NAME = mydear_v1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "tattooscene-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "mydear_v1-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -544,16 +544,16 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 888AA505DA52759807870FFD /* Pods-tattooscene.release.xcconfig */;
+			baseConfigurationReference = 888AA505DA52759807870FFD /* Pods-mydear_v1.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = tattooscene/tattooscene.entitlements;
+				CODE_SIGN_ENTITLEMENTS = mydear_v1/mydear_v1.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9696MUD2TP;
-				INFOPLIST_FILE = tattooscene/Info.plist;
+				INFOPLIST_FILE = mydear_v1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -565,9 +565,9 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = kr.mydear.v1;
-				PRODUCT_NAME = tattooscene;
+				PRODUCT_NAME = mydear_v1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "tattooscene-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "mydear_v1-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -701,7 +701,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "tattoosceneTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "mydear_v1Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -710,7 +710,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "tattooscene" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "mydear_v1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -719,7 +719,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "tattooscene" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "mydear_v1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
